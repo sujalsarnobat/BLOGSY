@@ -67,10 +67,8 @@ Blogsy/
 ├─ package.json
 └─ .gitignore
 
-yaml
-Copy code
 
----
+
 
 ## ⚙️ Setup Instructions
 
